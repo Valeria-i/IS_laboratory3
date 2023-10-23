@@ -1,0 +1,17 @@
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\NLog.config
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\Students.mdf
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\Students_log.ldf
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\Server.exe.config
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\Server.exe
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\Server.pdb
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\EntityFramework.dll
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\NLog.dll
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\EntityFramework.xml
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\3_course\IS_architecture\IS_lab3\Server\bin\Debug\NLog.xml
+D:\3_course\IS_architecture\IS_lab3\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\3_course\IS_architecture\IS_lab3\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\3_course\IS_architecture\IS_lab3\Server\obj\Debug\Server.csproj.CopyComplete
+D:\3_course\IS_architecture\IS_lab3\Server\obj\Debug\Server.exe
+D:\3_course\IS_architecture\IS_lab3\Server\obj\Debug\Server.pdb
